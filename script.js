@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Enunciado principal",
+        enunciado: "Enunciado principaldescubra o esporte adequado pra  você",
         alternativas: [
             {
-                texto: "Texto 1",
-                afirmacao: "Afirmação 1 "
+                texto: "você prefere jogar com a mão",
+                afirmacao: "então podemos dizer que você tem uma maior afinidade com as mãos "
             },
             {
-                texto: "Texto 2",
-                afirmacao: "Afirmação 2"
+                texto: "você prefere jogar com as maõs e pés",
+                afirmacao: "então podemos dizer que você tem uma maior afinidade com os pés"
             }
         ]
     },
@@ -22,12 +22,12 @@ const perguntas = [
         enunciado: "Enunciado 2",
         alternativas: [
             {
-                texto: "texto botão 1",
-                afirmacao: "Afirmação do texto botão 2"
+                texto: " você prefere esportes individuais",
+                afirmacao: "então subentendemos  que você tem maior facilidade  sozinho"
             },
             {
-                texto: "texto botão 2",
-                afirmacao: "Afirmação do texto botão 2"
+                texto: "você prefere esportes em equipe",
+                afirmacao: "então podemos concluir que você e mais socialvel e comunicativo e gosta de coletividade"
             }
         ]
     },
@@ -35,12 +35,12 @@ const perguntas = [
         enunciado: "Enunciado 3",
         alternativas: [
             {
-                texto: "texto botão 1",
-                afirmacao: "Afirmação do texto botão 1"
+                texto: "você gosta de esportes intelectuais",
+                afirmacao: "então podemos concluir que você e uma pessoa inteligente e tem pensamentos rápidos"
             },
             {
-                texto: "texto botão 2",
-                afirmacao: "Afirmação do texto botão 2"
+                texto: "você gosta de esportes mais fisicos",
+                afirmacao: "então concluimos que você e uma pessoa com  melhores traços e habilidades físicas"
             }
         ]
     },
@@ -48,12 +48,12 @@ const perguntas = [
         enunciado: "Enunciado 4",
         alternativas: [
             {
-                texto: "texto botão 1",
-                afirmacao: "Afirmação do texto botão 1"
+                texto: "você prefere jogar com cartas",
+                afirmacao: "os esportes mais combativeis com você são jogos de carta como pôquer,xadres ou damas"
             },
             {
-                texto: "texto botão 2",
-                afirmacao: "Afirmação do texto botão 2"
+                texto: "você prefere jogar com bolas",
+                afirmacao: "os esportes mais combativeis com você são futebol,voleibol, basquete, futsal ou futebol americano"
             }
         ]
     },
